@@ -1,11 +1,11 @@
 # Site settings
-author: Giovana Zavaglia
-title: 
+author: Gio Zavaglia
+title: It's Gio Y'all
 header-img: img/home-bg.png
 email: gio.zavaglia@gmail.com
-copyright_name: Giovana Zavaglia
+copyright_name: Gio Zavaglia
 description: > # this means to ignore newlines until "baseurl:"
-  
+  "Hello Worlding" since 1989
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gzavaglia
