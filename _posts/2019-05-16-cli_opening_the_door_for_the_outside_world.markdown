@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI: Opening the door for the outside world"
-date:       2019-05-16 14:56:49 +0000
+date:       2019-05-16 10:56:51 -0400
 permalink:  cli_opening_the_door_for_the_outside_world
 ---
 
