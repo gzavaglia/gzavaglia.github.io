@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Current Mood: First Project PANIC"
-date:       2019-06-05 19:32:18 +0000
+date:       2019-06-05 15:32:19 -0400
 permalink:  current_mood_first_project_panic
 ---
 
@@ -214,6 +214,11 @@ def show_all
 
 And that, so far, it's my first project! Now I need to clean it up, and make sure it looks presentable. Fingers crossed!!
 
+![](https://imgur.com/kWHv1Gh)
+
+![](https://imgur.com/WUfkrY5)
+
+![](https://imgur.com/V2TsZj9)
 # #end 
 
 
